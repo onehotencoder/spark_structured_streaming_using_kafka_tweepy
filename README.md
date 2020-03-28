@@ -1,4 +1,4 @@
-# spark_structured_streaming_using_kafka_tweepy
+# Spark Structured Streaming
 Stream live tweets from Twitter using Tweepy into kafka which is then read by Spark Structured Streams and written out into a CSV
 
 #### Steps to get going
